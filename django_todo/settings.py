@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-akirby23-hello-django-rjswrkxp3v.us2.codeanyapp.com', '8000-akirby23-hellodjango-swtfztjke71.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['8000-akirby23-hello-django-rjswrkxp3v.us2.codeanyapp.com', '8000-akirby23-hellodjango-swtfztjke71.ws-eu106.gitpod.io', 'https://hellodjango-taskmanager-4036eeb353eb.herokuapp.com/']
 
 
 # Application definition
